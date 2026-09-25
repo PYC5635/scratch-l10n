@@ -3078,6 +3078,9 @@ var locales = {
   },
   'zh-cn': {
     name: '简体中文'
+  },
+  'lzh': {
+    name: '文言'
   }
 };
 var customLocales = {
@@ -3085,10 +3088,15 @@ var customLocales = {
   'zh-cn': {
     locale: 'zh-cn',
     parentLocale: 'zh'
+  },
+  'lzh': {
+    locale: 'lzh',
+    parentLocale: 'zh'
   }
 };
 var localeMap = {
-  'zh-cn': 'zh_CN'
+  'zh-cn': 'zh_CN',
+  'lzh': 'zh_CN'
 };
 
 // list of RTL locales supported, and a function to check whether a locale is RTL
