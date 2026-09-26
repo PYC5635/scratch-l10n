@@ -594,7 +594,7 @@ export default {
     "gui.controls.go": "运行",
     "gui.controls.stop": "停止",
     "gui.crashMessage.label": "呀，出错了。",
-    "gui.crashMessage.description": "很抱歉，Bilup出故障了。请刷新页面再试试。",
+    "gui.crashMessage.description": "很抱歉，PineWarp出故障了。请刷新页面再试试。",
     "gui.crashMessage.errorNumber": "该错误已记录，编号{errorId}",
     "gui.crashMessage.reload": "重新载入",
     "gui.crashMessage.saveProject": "保存项目",
